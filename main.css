@@ -1,6 +1,16 @@
 /*Css file*/
-.black{
-    background-color: #000000;
-    width:50%;
-    color:#;
+#nav li{
+  display:inline;
+padding:5px; 
+}
+#nav a{
+  text-decoration:none;
+  font:17px Arial;
+  background:grey;
+  color:white;
+  padding:20px 25px;
+
+}
+#nav a:hover{
+
 }
